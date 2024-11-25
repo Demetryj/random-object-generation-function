@@ -1,0 +1,1 @@
+# random-object-generation-function
