@@ -1,0 +1,4 @@
+{
+  "type": "object",
+  "enum": [{ "role": "admin" }, { "role": "user" }, { "role": "guest" }]
+}
