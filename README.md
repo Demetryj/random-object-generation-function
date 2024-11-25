@@ -319,7 +319,7 @@ Schema: schemas/userSchema.json
 Usage Script:
 
 ```javascript
-cgitonst generateRandomData = require("./generateRandomData");
+const generateRandomData = require("./generateRandomData");
 const schema = require("./schemas/userSchema.json");
 
 const randomNestedObject = generateRandomData(schema);
