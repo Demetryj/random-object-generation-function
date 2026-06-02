@@ -36,6 +36,7 @@ This project contains a JavaScript function to generate random data objects base
    npm install
    ```
 
+
 ## Usage
 
 ### 1 Passing Schema as a JavaScript Object
